@@ -15,4 +15,9 @@
 - English and technitial terms were completely unfamiliar
 - Realized I need to build foundational knowladge first
 
+### Next steps
+- Learn basic Python (hash verification scriipt)
+- Build English vocabulary for forensic terms
+- Study fundamental concepts before attempting challenges
+
 ---
