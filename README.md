@@ -56,7 +56,7 @@ conspiracy theory（陰謀論）はdramaticで分かりやすくemotionalだ。
 これはforensic reportの伝達設計にも直結する課題だ。
 
 
-### 分析レポート　-　OCCRP批判への考察
+### 分析レポート（まとめ） -　OCCRP批判への考察
 
 #### 1. 構造化された対立
 OCCRPを巡る攻防は単なる「事実vs嘘」の争いではない。
